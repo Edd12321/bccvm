@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1657979717 source:/home/edward/.dots/work/bccvm/main.cpp
+	<fstream>
+	<iostream>
+	<istream>
+	<stack>
+	<string>
+	<vector>
+
