@@ -15,3 +15,4 @@ vveeeeeeeeeeeeeeeeeeeeeeeee"Please enter an integer: "<
 >                                                     ^
  >&:*$@
 ```
+You can view more examples in the ```examples``` folder...
