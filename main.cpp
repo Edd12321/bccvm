@@ -92,7 +92,7 @@ kmain(istream& in)
 		}
 	}
 
-	oo     = file.size()-1;
+	oo = file.size()-1;
 
 	/* elements to use in operations */
 	int x, y;
